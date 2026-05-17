@@ -365,12 +365,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ---
 
-## 💬 Support
-
-Have questions or found an issue? [Open an issue on GitHub](https://github.com/yourusername/neuroflow-ai/issues).
-
----
-
 ## 🌟 Credits
 
 Inspired by:
@@ -382,4 +376,4 @@ Inspired by:
 
 ---
 
-Deployed: [neuroflow-ai.vercel.app](https://neuroflow-ai.vercel.app)
+Deployed: [neuroflow-ai.vercel.app](https://neuroflow-ai-two.vercel.app)
