@@ -229,7 +229,7 @@ export default function Footer() {
               transition={{ delay: 0.4 }}
               className="font-body text-sm text-slate-600 text-center md:text-left"
             >
-              © 2024 NeuroFlow AI, Inc. All rights reserved. Built with{" "}
+              © 2026 NeuroFlow AI, Inc. All rights reserved. Built with{" "}
               <span className="text-cyan-400">love</span> & AI.
             </motion.p>
 
@@ -244,7 +244,7 @@ export default function Footer() {
               {[
                 { label: "SOC 2 Type II", icon: "🔒" },
                 { label: "GDPR Compliant", icon: "✓" },
-                { label: "Made in 2024", icon: "⚡" },
+                { label: "Made in 2026", icon: "⚡" },
               ].map((badge, i) => (
                 <div
                   key={i}
