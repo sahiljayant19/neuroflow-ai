@@ -24,12 +24,12 @@ const spaceMono = Space_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "NeuroFlow AI — Your Workflow, Amplified by AI",
+  title: "NeuroFlow AI",
   description:
     "NeuroFlow is the AI-native productivity platform that learns how your team works, automates the repetitive, and surfaces what matters most.",
   keywords: ["AI productivity", "workflow automation", "team collaboration", "AI platform"],
   openGraph: {
-    title: "NeuroFlow AI — Your Workflow, Amplified by AI",
+    title: "NeuroFlow AI",
     description: "The AI productivity platform that thinks, plans, and creates alongside you.",
     type: "website",
   },
