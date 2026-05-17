@@ -144,7 +144,7 @@ export default function FAQ() {
           <h2 className="font-display font-800 text-4xl md:text-5xl text-white tracking-tight mb-4">
             Questions?
             <br />
-            <span className="text-gradient-cyan">We've got answers.</span>
+            <span className="text-gradient-cyan">We&apos;ve got answers.</span>
           </h2>
           <p className="font-body text-slate-400 text-lg">
             Everything you need to know about NeuroFlow, from security to

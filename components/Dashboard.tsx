@@ -320,6 +320,7 @@ export default function Dashboard() {
     };
     window.addEventListener("neuroflow-trigger-dashboard", handleTrigger);
     return () => window.removeEventListener("neuroflow-trigger-dashboard", handleTrigger);
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [isThinking, isTypingAnimation]);
 
   const navItems = [
